@@ -1,2 +1,2 @@
 # micro server
- python micro server(socket)
+以socket实现简易python web server
